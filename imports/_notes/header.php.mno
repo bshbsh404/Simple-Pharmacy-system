@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:user_id;datatype:int,name:firstName;datatype:string,name:lastName;datatype:string,name:userName;datatype:string,name:password;datatype:string,name:role;datatype:string" />
+	<infoitem key="UD_exmed" value="name:id;datatype:int,name:medicine_id;datatype:int,name:expiryDate;datatype:date,name:quantity;datatype:int" />
+	<infoitem key="UD_med" value="name:brandName;datatype:string" />
+	<infoitem key="UD_userdefinition" value="name:user_id;datatype:int,name:userName;datatype:string,name:role;datatype:string" />
+</info>
